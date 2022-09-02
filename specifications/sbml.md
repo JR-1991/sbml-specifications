@@ -127,10 +127,12 @@
   - XML: @substanceUnits
 - __has_only_substance_units*__
   - Type: bool
+  - Default: False
   - Description: Whether this species is given as a concentration or absolute amount
   - XML: @hasOnlySubstanceUnits
 - __boundary_condition*__
   - Type: bool
+  - Default: True
   - Description: Whether or not there are boundary conditions found in this species.
   - XML: @boundaryConditions
 - __constant*__
