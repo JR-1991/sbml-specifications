@@ -201,6 +201,7 @@
 - __constant*__
   - Type: bool
   - Description: Whether or not this species is constant in the reaction
+  - XML: @constant
 
 ### ModifierSpeciesReference [_SimpleSpeciesReference_]
 
